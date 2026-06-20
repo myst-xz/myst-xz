@@ -1,6 +1,6 @@
 - 👋 Hi.
 - 🧑‍💻 I’m interested in InfoSec.
-- 🌱 I’m currently learning IT with a focus on CybSec.
+- 🌱 learning IT with a focus on CybSec.
 - 💞️ I’m looking to collaborate on future CybSec projects.
 
 <!---
